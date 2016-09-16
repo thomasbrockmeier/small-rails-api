@@ -9,6 +9,7 @@ gem 'active_model_serializers', '~> 0.8.3'
 gem 'devise'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'thin'
+gem 'rack-cors'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
